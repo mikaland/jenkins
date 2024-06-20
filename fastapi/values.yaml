@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: maikimike/fastapidevops # replace this yourdocker_hub_id/datascientestapi
+  repository: mikalander77/fastapi # replace this yourdocker_hub_id/datascientestapi
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
